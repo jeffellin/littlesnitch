@@ -1,0 +1,174 @@
+{
+  "description" : "",
+  "name" : "Tether-Ellin",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1538581082.7046461,
+      "modificationDate" : 1538581103.2717481,
+      "owner" : "system",
+      "process" : "any",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1538581095.6603031,
+      "modificationDate" : 1538581095.6603031,
+      "owner" : "me",
+      "process" : "any",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537488999.604039,
+      "modificationDate" : 1537535475.11373,
+      "owner" : "me",
+      "process" : "\/Applications\/1Password 7.app\/Contents\/MacOS\/1Password 7",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1538414807.7282591,
+      "modificationDate" : 1538585572.0523992,
+      "owner" : "me",
+      "process" : "\/System\/Library\/Frameworks\/Accounts.framework\/Versions\/A\/Support\/accountsd",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537460762.6445341,
+      "modificationDate" : 1537460762.6445341,
+      "owner" : "me",
+      "process" : "\/System\/Library\/Frameworks\/AddressBook.framework\/Versions\/A\/Helpers\/AddressBookSourceSync.app\/Contents\/MacOS\/AddressBookSourceSync",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537798913.438148,
+      "modificationDate" : 1537799075.2373309,
+      "owner" : "me",
+      "process" : "\/System\/Library\/PrivateFrameworks\/CalendarAgent.framework\/Executables\/CalendarAgent",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1538586228.5152831,
+      "modificationDate" : 1538586317.2287459,
+      "owner" : "me",
+      "process" : "\/Applications\/Fantastical 2.app\/Contents\/Frameworks\/FantasticalSync.framework\/Versions\/A\/Frameworks\/FBCalDAV.framework\/Versions\/A\/XPCServices\/com.flexibits.fbcaldav.FBCalDAV-XPC.xpc\/Contents\/MacOS\/com.flexibits.fbcaldav.FBCalDAV-XPC",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537799090.1760969,
+      "modificationDate" : 1537799134.036041,
+      "owner" : "me",
+      "process" : "\/Applications\/Fantastical 2.app\/Contents\/MacOS\/Fantastical 2",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537211020.313395,
+      "modificationDate" : 1537535475.114383,
+      "owner" : "me",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537212692.1790729,
+      "modificationDate" : 1537535475.1150851,
+      "owner" : "me",
+      "process" : "\/Library\/Application Support\/iStat Menus 6\/iStat Menus Status.app\/Contents\/MacOS\/iStat Menus Status",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537489196.439224,
+      "modificationDate" : 1537535475.115757,
+      "owner" : "me",
+      "process" : "\/Library\/Application Support\/iStat Menus 6\/iStatMenusAgent.app\/Contents\/MacOS\/iStatMenusAgent",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537489205.1122699,
+      "modificationDate" : 1537535475.116338,
+      "owner" : "me",
+      "process" : "\/Applications\/LastPass.app\/Contents\/MacOS\/LastPass",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537212060.932621,
+      "modificationDate" : 1537535475.1177211,
+      "owner" : "me",
+      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537489420.45362,
+      "modificationDate" : 1537535475.118643,
+      "owner" : "me",
+      "process" : "\/Applications\/Messages.app\/Contents\/MacOS\/Messages",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537464316.961957,
+      "modificationDate" : 1537464316.961957,
+      "owner" : "me",
+      "process" : "\/System\/Library\/CoreServices\/NotificationCenter.app\/Contents\/MacOS\/NotificationCenter",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537400538.7796512,
+      "modificationDate" : 1537535475.1193509,
+      "owner" : "me",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537798653.341538,
+      "modificationDate" : 1537798778.017271,
+      "owner" : "me",
+      "process" : "\/Applications\/Slack.app\/Contents\/MacOS\/Slack",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537212200.3066921,
+      "modificationDate" : 1537535475.1200662,
+      "owner" : "me",
+      "process" : "\/System\/Library\/CoreServices\/Stocks.app\/Contents\/PlugIns\/com.apple.ncplugin.stocks.appex\/Contents\/MacOS\/com.apple.ncplugin.stocks",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537798928.2226439,
+      "modificationDate" : 1537799075.240401,
+      "owner" : "me",
+      "process" : "\/Applications\/System Preferences.app\/Contents\/MacOS\/System Preferences",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537489197.440424,
+      "modificationDate" : 1537535475.120764,
+      "owner" : "me",
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/MacOS\/Tunnelblick",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537212201.333812,
+      "modificationDate" : 1537535475.121321,
+      "owner" : "me",
+      "process" : "\/System\/Library\/CoreServices\/Weather.app\/Contents\/PlugIns\/com.apple.ncplugin.weather.appex\/Contents\/MacOS\/com.apple.ncplugin.weather",
+      "remote" : "any"
+    }
+  ]
+}
