@@ -8,7 +8,8 @@
       "modificationDate" : 1538581103.2717481,
       "owner" : "system",
       "process" : "any",
-      "remote" : "any"
+      "remote" : "any",
+      "profile" : "Tether"
     },
     {
       "action" : "deny",
