@@ -8,8 +8,7 @@
       "modificationDate" : 1538581103.2717481,
       "owner" : "system",
       "process" : "any",
-      "remote" : "any",
-      "profile" : "Tether"
+      "remote" : "any"
     },
     {
       "action" : "deny",
@@ -17,6 +16,15 @@
       "modificationDate" : 1538581095.6603031,
       "owner" : "me",
       "process" : "any",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1538581095.6603031,
+      "modificationDate" : 1538581095.6603031,
+      "owner" : "system",
+      "process" : "\/Library\/Little Snitch\/Little Snitch Daemon.bundle\/Contents\/XPCServices\/Little Snitch URL Downloader.xpc\/Contents\/MacOS/Little Snitch URL Downloader",
+      "owner": "system",
       "remote" : "any"
     },
     {

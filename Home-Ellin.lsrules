@@ -1,0 +1,22 @@
+{
+  "description" : "",
+  "name" : "Home-Ellin",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1537535416.04969,
+      "modificationDate" : 1537535416.04969,
+      "owner" : "system",
+      "process" : "any",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1537535406.2381279,
+      "modificationDate" : 1537535406.2381279,
+      "owner" : "me",
+      "process" : "any",
+      "remote" : "any"
+    }
+  ]
+}
