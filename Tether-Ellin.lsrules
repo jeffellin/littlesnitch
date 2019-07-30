@@ -3,22 +3,6 @@
   "name" : "Tether-Ellin",
   "rules" : [
     {
-      "action" : "deny",
-      "creationDate" : 1538581082.7046461,
-      "modificationDate" : 1538581103.2717481,
-      "owner" : "system",
-      "process" : "any",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1538581095.6603031,
-      "modificationDate" : 1538581095.6603031,
-      "owner" : "me",
-      "process" : "any",
-      "remote" : "any"
-    },
-    {
       "action" : "allow",
       "creationDate" : 1538581095.6603031,
       "modificationDate" : 1538581095.6603031,
