@@ -21,6 +21,14 @@
     },
     {
       "action" : "allow",
+      "creationDate" : 1537488999.604039,
+      "modificationDate" : 1537535475.11373,
+      "owner" : "me",
+      "process" : "\/Applications\/Telegram Desktop.app\/Contents\/MacOS\Telegram Desktop",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
       "creationDate" : 1538414807.7282591,
       "modificationDate" : 1538585572.0523992,
       "owner" : "me",
