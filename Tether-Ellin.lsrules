@@ -120,7 +120,7 @@
       "creationDate" : 1537212060.932621,
       "modificationDate" : 1537535475.1177211,
       "owner" : "me",
-      "process" : "\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
+      "process" : "\/System\/Applications\/Mail.app\/Contents\/MacOS\/Mail",
       "remote" : "any"
     },
     {
@@ -128,7 +128,7 @@
       "creationDate" : 1537489420.45362,
       "modificationDate" : 1537535475.118643,
       "owner" : "me",
-      "process" : "\/Applications\/Messages.app\/Contents\/MacOS\/Messages",
+      "process" : "\/System\/Applications\/Messages.app\/Contents\/MacOS\/Messages",
       "remote" : "any"
     },
     {
@@ -168,7 +168,7 @@
       "creationDate" : 1537798928.2226439,
       "modificationDate" : 1537799075.240401,
       "owner" : "me",
-      "process" : "\/Applications\/System Preferences.app\/Contents\/MacOS\/System Preferences",
+      "process" : "\/System\/Applications\/System Preferences.app\/Contents\/MacOS\/System Preferences",
       "remote" : "any"
     },
     {
